@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\AreaMethodTask\AreaMethodTask\obj\Debug\netcoreapp3.1\AreaMethodTask.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\AreaMethodTask\AreaMethodTask\obj\Debug\netcoreapp3.1\AreaMethodTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\AreaMethodTask\AreaMethodTask\obj\Debug\netcoreapp3.1\AreaMethodTask.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\AreaMethodTask\AreaMethodTask\obj\Debug\netcoreapp3.1\AreaMethodTask.AssemblyInfo.cs
+C:\Users\HP\Desktop\AreaMethodTask\AreaMethodTask\obj\Debug\netcoreapp3.1\AreaMethodTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\AreaMethodTask\AreaMethodTask\bin\Debug\netcoreapp3.1\AreaMethodTask.exe
+C:\Users\HP\Desktop\AreaMethodTask\AreaMethodTask\bin\Debug\netcoreapp3.1\AreaMethodTask.deps.json
+C:\Users\HP\Desktop\AreaMethodTask\AreaMethodTask\bin\Debug\netcoreapp3.1\AreaMethodTask.runtimeconfig.json
+C:\Users\HP\Desktop\AreaMethodTask\AreaMethodTask\bin\Debug\netcoreapp3.1\AreaMethodTask.runtimeconfig.dev.json
+C:\Users\HP\Desktop\AreaMethodTask\AreaMethodTask\bin\Debug\netcoreapp3.1\AreaMethodTask.dll
+C:\Users\HP\Desktop\AreaMethodTask\AreaMethodTask\bin\Debug\netcoreapp3.1\AreaMethodTask.pdb
+C:\Users\HP\Desktop\AreaMethodTask\AreaMethodTask\obj\Debug\netcoreapp3.1\AreaMethodTask.dll
+C:\Users\HP\Desktop\AreaMethodTask\AreaMethodTask\obj\Debug\netcoreapp3.1\AreaMethodTask.pdb
+C:\Users\HP\Desktop\AreaMethodTask\AreaMethodTask\obj\Debug\netcoreapp3.1\AreaMethodTask.genruntimeconfig.cache
